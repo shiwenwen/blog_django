@@ -91,7 +91,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-bdEven
 
 # Spyder project settings
 .spyderproject
@@ -106,5 +105,8 @@ bdEven
 # mypy
 .mypy_cache/
 
+
+.idea
+bdEven
 migrations/
 !mimigrations/__init__.py
